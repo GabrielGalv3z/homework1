@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
@@ -118,18 +118,21 @@ p {
 
 .benefit-lead img {
     display: block;
+    height: 150px;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-brand img {
     display: block;
+    height: 150px;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-cost img {
     display: block;
+    height: 150px;
     margin: 10px auto;
     max-width: 150px;
 }
@@ -163,14 +166,17 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    height: 200px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    height: 200px;
 }
 
 .search-engine-optimization h2 {
